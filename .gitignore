@@ -1,0 +1,20 @@
+# Environments
+.env
+.env.*
+
+# 가상환경
+venv/
+
+# 파이썬 캐시 안 올라가게
+__pycache__/
+**/__pycache__/
+
+# 테디노트 깃허브 주소에서 통으로 받는 코드 제외
+documents/
+
+# 고용량의 문서와 벡터 DB 제외
+# chap09/data/
+# chap13/data/
+# **/chroma_store/
+# chap15/outline-generation-multi-agent-chatbot/data/
+# chap16/outline-generation-multi-agent-chatbot/data/
