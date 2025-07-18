@@ -12,6 +12,9 @@ __pycache__/
 # 깃허브 코드 예시 + 테디노트 패키지 파일 제외
 documents/
 
+# 모든 data 폴더 제외
+**/data/
+
 # 고용량의 문서와 벡터 DB 제외
 # chap09/data/
 # chap13/data/
