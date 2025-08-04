@@ -19,6 +19,7 @@ documents/
 # 고용량의 문서와 벡터 DB 제외
 **/chroma_db/
 **/images/
+**/image/
 **/tmp/
 **/faiss_db/
 # chap09/data/
